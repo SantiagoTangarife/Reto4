@@ -1,0 +1,5 @@
+100#0#bandeja#frijol#10#15#almuerzo
+101#0#huevo y arroz#hevo con arroz#5#25#cena
+102#0#sancocho#papas, platano y carne#15#32#almuerzo
+103#0#sudado#papa carne y arroz#10#35#almuerzo
+104#0#pollo desmechado#platano y pollo#12#25#desayuno
